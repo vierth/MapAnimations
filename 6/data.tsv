@@ -1,1 +1,4 @@
-ship	leg	departure	arrival	startx	starty	destinationx	destinationy1	1	1756	1756	100	100	200	2002	1	1756	1757	100	100	200	200
+ship	leg	departure	arrival	startx	starty	destinationx	destinationy
+0	1	1756	1756	100	100	200	200
+1	1	1756	1757	100	100	200	200
+0	2	1758	1759	200	200	500	200
